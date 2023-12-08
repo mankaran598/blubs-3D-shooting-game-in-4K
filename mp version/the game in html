@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multiplayer Shooting Game</title>
+  <style>
+    /* Your CSS styles for game elements go here */
+  </style>
+</head>
+<body>
+  <canvas id="gameCanvas" width="800" height="600"></canvas>
+
+  <script>
+    // JavaScript for game logic will go here
+    // You'll need to implement game mechanics, networking, player controls, etc.
+  </script>
+</body>
+</html>
